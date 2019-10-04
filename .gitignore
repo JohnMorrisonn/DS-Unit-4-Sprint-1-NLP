@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data folders
+.module1-text-data\data
+.module2-vector-representations\data
+.module3-document-classification\data
+.module4-topic-modeling\data
+.module4-topic-modeling/data/Datafiniti_Amazon_Consumer_Reviews_of_Amazon_Products_May19.csv
